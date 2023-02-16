@@ -4,7 +4,7 @@
 <h3 align="center">Always Learning and Growing</h3>
 <img align="right" alt="gif" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-mourya&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-mourya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-mourya&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-mourya" /> </p> -->
 
 - 🌱 I’m currently learning **Spring**
 
