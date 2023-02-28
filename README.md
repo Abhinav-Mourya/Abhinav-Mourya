@@ -13,7 +13,7 @@
 - 💬 Ask me about **HTML, CSS, JS, JAVA, HIBERNATE, SQL, JDBC, DAO TECHNOLOGY**
 - 📫 How to reach me **abhinavmourya22@gmail.com**
 
-- 👾 Projects available at **https://abhinav-Mourya.github.io/**
+- 👾 Projects available at **https://abhinav-mourya.github.io/**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
